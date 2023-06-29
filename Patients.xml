@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patients>
+  <Patient>
+    <PatientId>987654321</PatientId>
+    <FirstName>הרצל</FirstName>
+    <LastName>מרציאנו</LastName>
+  </Patient>
+  <Patient>
+    <PatientId>654321987</PatientId>
+    <FirstName>אריאלה</FirstName>
+    <LastName>פיס</LastName>
+  </Patient>
+  <Patient>
+    <PatientId>123456782</PatientId>
+    <FirstName>ישראל</FirstName>
+    <LastName>ישראלי</LastName>
+  </Patient>
+</Patients>
